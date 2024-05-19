@@ -18,7 +18,7 @@ import {
 
 class App extends Component {
   state = {
-    name: "FutureSkill"
+    name: "ReactChatSample"
   };
 
   onNameChange = name => {

@@ -8,10 +8,10 @@ class Chatroom extends Component {
   state = {
     socket: null,
     messages: [
-      { text: "Hi", member: "FutureSkill" },
-      { text: "Hi", member: "Mark" },
-      { text: "Good Bye", member: "FutureSkill" },
-      { text: "Bye", member: "Mark" }
+      { text: "Hi", member: "Sichol" },
+      { text: "Hi", member: "Earth" },
+      { text: "Good Bye", member: "Sichol" },
+      { text: "Bye", member: "Earth" }
     ]
   };
 
